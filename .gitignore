@@ -1,0 +1,3 @@
+cmake-build-*/
+day*.txt
+.idea/
